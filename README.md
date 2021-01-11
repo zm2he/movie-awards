@@ -1,4 +1,6 @@
 # Movies Awards
+This project can be found at [zm2he.github.io/movieawards](https://zm2he.github.io/movieawards/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), refer to [README-create-react-app](./README-create-react-app.md) for more information
 
 # Run the app
@@ -13,4 +15,4 @@ Then upload the entire folder /build to the server
 
 # References
 [1] [Create React App](https://github.com/facebook/create-react-app)<br>
-[2] [OMDb API](http://omdbapi.com)<br>
+[2] [OMDb API](https://omdbapi.com)<br>
