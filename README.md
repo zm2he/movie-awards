@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Run the app
 You need to obtain an [OMDb API Key](http://omdbapi.com/apikey.aspx), and this key should be configured to OMDBAPI_KEY in src/config.js<br>
 
+<br><br><img src='./public/movieawards.png' ><br><br>
+
 To run the app locally<br>
 ```npm start```
 
